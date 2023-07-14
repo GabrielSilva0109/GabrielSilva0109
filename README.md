@@ -1,4 +1,4 @@
-💾Desenvolvedor BackEnd Java | JSP | MySQL  na empresa "Brame Automações"
+💾Desenvolvedor FullStack Java | JSP | MySQL | HTML | CSS na empresa "Brame Automações"
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5, onde tenho a oportunidade de adquirir conhecimentos técnicos e teóricos sobre a área de desenvolvimento de software. 
 
