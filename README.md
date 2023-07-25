@@ -4,5 +4,5 @@
 
 Linguagens: Java | JavaScript | HTML | CSS | Python | JSP | MySQL
 
-Fiquem a vontade para dar uma olhada no meu PortFolio!!!
+Fiquem a vontade para dar uma olhada no meu PortFolio
 https://gabrielsilva0109.github.io/GabrielSilva/
