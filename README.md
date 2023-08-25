@@ -4,7 +4,9 @@
 
 🖥️ Linguagens: Java | JavaScript | HTML | CSS | Python | JSP | MySQL | React
 
-🖽 FrameWorks: Spring | BootStrap 
+🖽 FrameWorks: Spring | BootStrap
+
+🖱️ Idea: Eclipse | Visual Studeo Code | IntelliJ IDEA | NetBeans
 
 Fiquem a vontade para dar uma olhada no meu PortFolio
 https://gabrielsilva0109.github.io/GabrielSilva/🖥
