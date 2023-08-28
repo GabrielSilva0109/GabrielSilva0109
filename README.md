@@ -2,8 +2,6 @@
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5
 
-🖱️ Idea: Eclipse | Visual Studeo Code | IntelliJ IDEA | NetBeans
-
 <div>
   <a href="">
   <img width="41.5%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
