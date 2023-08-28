@@ -2,8 +2,6 @@
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5
 
-🖽 FrameWorks: Spring | BootStrap
-
 🖱️ Idea: Eclipse | Visual Studeo Code | IntelliJ IDEA | NetBeans
 
 <div>
@@ -15,7 +13,7 @@
 </div>
 &nbsp;
 
-Linguagens:
+🖥 Linguagens:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -25,9 +23,12 @@ Linguagens:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-FrameWorks: 
+🖽 FrameWorks: 
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+
 Fiquem a vontade para dar uma olhada no meu PortFolio
-https://gabrielsilva0109.github.io/GabrielSilva/🖥
+https://gabrielsilva0109.github.io/GabrielSilva/
