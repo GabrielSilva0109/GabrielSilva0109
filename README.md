@@ -1,7 +1,7 @@
 💾 Desenvolvedor FullStack | Java | JSP | MySQL | HTML | CSS | Js | na empresa "Brame Automações"
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5
-📚 Formado em Marketing
+| 📚 Formado em Marketing
 <div>
   <a href="">
   <img width="41.5%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
