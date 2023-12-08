@@ -1,4 +1,4 @@
-💾 Desenvolvedor FullStack | Java | JSP | MySQL | HTML | CSS | Js | na empresa "Brame Automações"
+💾 Desenvolvedor FullStack Junior | Java | JSP | MySQL | HTML | CSS | Js | na empresa "Brame Automações"
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5
 | 📚 Formado em Marketing
