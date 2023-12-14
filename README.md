@@ -6,7 +6,6 @@
   <a href="">
   <img width="41.5%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
   <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&show_icons=true&theme=radical&layout=compact" />
-
  </div>
 </div>
 &nbsp;
