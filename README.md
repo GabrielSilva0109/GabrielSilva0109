@@ -4,8 +4,8 @@
 | 📚 Formado em Marketing
 <div>
   <a href="">
-  <img width="41.5%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
+  <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
  </div>
 </div>
 &nbsp;
