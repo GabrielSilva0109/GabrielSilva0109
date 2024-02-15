@@ -3,14 +3,13 @@
 📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 5/5
 | 📚 Formado em Marketing
 <div>
-  <a href="">
   <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
  </div>
 </div>
 &nbsp;
 
-🖥 Skill:
+🖥 Skills:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
