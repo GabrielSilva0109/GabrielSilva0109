@@ -1,6 +1,6 @@
 💾 Desenvolvedor FullStack Junior Java | JSP | MySQL | HTML | CSS | Js |  Empresa "Brame Automações"
 
-📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 4/5
+📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 5/5
 | 📚 Formado em Marketing
 <div>
   <a href="">
@@ -10,7 +10,7 @@
 </div>
 &nbsp;
 
-🖥 Linguagens:
+🖥 Skill:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
