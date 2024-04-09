@@ -1,7 +1,6 @@
-💾 Desenvolvedor FullStack Junior Java | Node.js | MySQL | React | Typescript |  Empresa "Brame Automações"
+💾 Junior FullStack Developer Java | Node.js | MySQL | React | Typescript | Company "Brame Automations"
 
-📚 Cursando Análise e Desenvolvimento de Sistemas no Senac 5/5
-| 📚 Formado em Marketing
+📚  Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing
 <div>
   <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
@@ -40,6 +39,5 @@
 ![STYLED](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
 
-
-Fiquem a vontade para dar uma olhada no meu PortFolio
+Feel free to take a look at my portfolio.
 https://gabrielsilva0109.github.io/GabrielSilva/
