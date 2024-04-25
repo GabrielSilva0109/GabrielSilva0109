@@ -1,6 +1,6 @@
 💾 Junior FullStack Developer Java | Node.js | MySQL | React | Typescript | Company "Brame Automations"
 
-📚  Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing
+📚  Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing 
 <div>
   <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
