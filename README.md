@@ -1,4 +1,4 @@
-💾 Junior FullStack Developer Java | Spring | AWS | Node.js | MySQL | React | Typescript | Company "Brame Automations"
+💾 FullStack Developer Java | Spring | AWS | Node.js | MySQL | React | Typescript | Company "Brame Automations"
 
 📚  Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing
 
