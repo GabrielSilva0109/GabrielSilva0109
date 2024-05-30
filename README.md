@@ -41,4 +41,4 @@
 ![STYLED](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
 Feel free to take a look at my portfolio.
-(https://gabriel-silva-dev.vercel.app/)
+https://gabriel-silva-dev.vercel.app/
