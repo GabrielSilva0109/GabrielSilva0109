@@ -3,6 +3,7 @@
 📚 Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing
 
 💾 Portfolio | https://gabriel-silva-dev.vercel.app/
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva0109&show_icons=true&theme=onedark)
 
 <div>
   <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" />
