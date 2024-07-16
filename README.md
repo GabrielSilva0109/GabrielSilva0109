@@ -4,10 +4,8 @@
 
 💾 Portfolio | https://gabriel-silva-dev.vercel.app/
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva0109&show_icons=true&theme=onedark)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&layout=compact&langs_count=10&theme=codeSTACKr"/>
-<!--   <img width="40%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSilva0109&theme=radical&mode=weekly" /> -->
-</div>
+![GabrielSilva0109's Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva0109&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GabrielSilva0109's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&theme=dark&show_icons=true&hide_border=true&layout=compact)
 &nbsp;
 
 🖥 Skills 
