@@ -1,4 +1,4 @@
-💾 FullStack Developer Typescript | React | Node.js | Firebase |  Company "Boom Prospect"
+💾 FullStack Developer Typescript | React | Node.js | Firebase | Company "Boom Prospect"
 
 📚 Currently pursuing Analysis and Systems Development at Senac 5/5 | 📚 Graduated in Marketing
 
