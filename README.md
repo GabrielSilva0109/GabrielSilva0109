@@ -1,6 +1,6 @@
 💾 FullStack Developer Typescript | React | Node.js | Firebase | Company "Boom Prospect"
 
-📚  Graduated in Analysis and Systems Development | 📚 Graduated in Marketing
+📚 Graduated in Analysis and Systems Development | 📚 Graduated in Marketing
 
 💾 Portfolio | https://gabriel-silva-dev.vercel.app/
  
