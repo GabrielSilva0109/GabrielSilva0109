@@ -8,6 +8,7 @@
 ![GabrielSilva0109's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva0109&theme=dark&show_icons=true&hide_border=true&layout=compact)
 &nbsp;
 
+
 🖥 Skills 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
