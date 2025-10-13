@@ -1,4 +1,4 @@
-💾 FullStack Developer Typescript | React | Node.js | Firebase | Company "Boom Prospect"
+💾 FullStack Developer Typescript | React | Node.js | AWS | Company "Watch"
 
 📚 Graduated in Analysis and Systems Development | 📚 Graduated in Marketing
 
