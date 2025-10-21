@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,spring,github,npm,postman,docker,tailwind,sass,bootstrap,netlify" />
+    <img src="https://skillicons.dev/icons?i=gcp,spring,github,gitlab,npm,postman,docker,tailwind,sass,bootstrap,netlify" />
   </a>
 </p>
